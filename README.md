@@ -25,14 +25,14 @@
 
 ## 🚀 About Me
 - I'm 16 years old
-- I enjoy learning data analysis & machine learning
+- I enjoy learning data analysis & engineering
 - I like building simple dashboards and exploring AI tools
 
 ## 🔥 Highlights
 - Data Analysis
 - Data Visualization
 - Interactive Dashboards
-- Machine Learning Basics
+- Data Engineering Basics
 
 ## 🧰 Skills
 <p>
