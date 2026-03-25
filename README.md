@@ -28,12 +28,6 @@
 - I enjoy learning data analysis & engineering
 - I like building simple dashboards and exploring AI tools
 
-## 🔥 Highlights
-- Data Analysis
-- Data Visualization
-- Interactive Dashboards
-- Data Engineering Basics
-
 ## 🧰 Skills
 <p>
     <img src="https://img.icons8.com/color/96/python.png" width="50" />
@@ -43,6 +37,13 @@
     <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50" />
     <img src="https://img.icons8.com/color/96/power-bi.png" width="50" />
 </p>
+
+## 🔥 Highlights
+- Data Analysis
+- Data Visualization
+- Interactive Dashboards
+- Data Engineering Basics
+
 
 ## 📊 GitHub Stats
 
@@ -54,6 +55,6 @@
 </p>
 
 ## ⚡️ My Goal
-#### I want to improve my skills and build cool data projects! 📈
+#### going improve my skills and build cool data projects! 📈
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
