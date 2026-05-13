@@ -36,13 +36,6 @@
     <img src="https://img.icons8.com/color/96/power-bi.png" width="50" />
 </p>
 
-## 🔥 Highlights
-- Data Analysis
-- Data Visualization
-- Interactive Dashboards
-- Data Engineering Basics
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
