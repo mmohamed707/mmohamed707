@@ -10,7 +10,7 @@
 <p>
     <a href="https://www.linkedin.com/in/mazen-mohamed7/"><img
             src="https://img.icons8.com/fluency/48/linkedin.png" width="40" />
-        <a href="mailto:mazen.business56@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png"
+        <a href="mailto:mazenmohamed7651@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png"
                 width="40" />
             <a href="https://discord.com/users/ID_HERE"><img src="https://img.icons8.com/fluency/48/discord.png"
                     width="40" />
